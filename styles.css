@@ -18,7 +18,7 @@ body {
 }
 
 .Tekst {
-    font-size: 16px;
+    font-size: 17px;
 }
 
 /* Layout */
@@ -38,11 +38,45 @@ div {
     margin-top: 50px;
     margin-bottom: 50px;
     margin-left: 400px;
-    padding-top: 100px;
+    padding-top: 130px;
     padding-bottom: 50px;
     width: 600px;
 }
 
+.Button {
+    background-color: #ED4385;
+    text-transform: uppercase;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    width: 220px;
+    height: 50px;
+    border-radius: 30px;
+    border: none;
+    box-shadow: 5px 5px 5px hsl(259, 72%, 39%);
+}
+
+.Introductie {
+    font-family: 'Merriweather', serif;
+    background-color: white;
+    color: #5722CD;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 350px;
+    padding-top: 60px;
+    padding-bottom: 50px;
+    width: 700px;
+}
+
+.Question {
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    color: black;
+}
+
+#ClickHere {
+    color: #5722CD;
+}
 
 /* Areas */
 
