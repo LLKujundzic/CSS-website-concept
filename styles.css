@@ -1,16 +1,48 @@
 /* Global styles */
 
+header {
+    background: rgb(8,0,148);
+    background: linear-gradient(270deg, rgba(8,0,148,1) 0%, rgba(87,34,205,1) 12%, rgba(87,34,205,1) 95%);
+    color: white;
+}
+
+
 /* Typography */
 
 body {
     font-family: 'Roboto', sans-serif;
 }
 
-.Merriweather {
-    font-family: 'Merriweather', serif;;
+.Titels {
+    font-family: 'Merriweather', serif;
+}
+
+.Tekst {
+    font-size: 16px;
 }
 
 /* Layout */
+
+ul {
+    list-style-type: none;
+    float: right;
+}
+
+li {
+    display: inline-block;
+    margin: 35px;
+}
+
+div {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 400px;
+    padding-top: 100px;
+    padding-bottom: 50px;
+    width: 600px;
+}
+
 
 /* Areas */
 
