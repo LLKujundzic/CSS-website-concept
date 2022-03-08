@@ -74,9 +74,17 @@ div {
     color: black;
 }
 
-#ClickHere {
+#OtherColor {
     color: #5722CD;
+    text-transform: uppercase;
 }
+
+.Projecten {
+    background-color: #F3F6F9;
+}
+
+
+
 
 /* Areas */
 
